@@ -463,3 +463,21 @@ hr.small {
   border-width: 4px;
   border-color: white;
 }
+
+.svg-icon {
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+.svg-icon.twitter {
+  background-image: url(../img/icons/twitter.svg);
+}
+
+.svg-icon.linkedin {
+  background-image: url(../img/icons/linkedin.svg);
+}
+
+.svg-icon.github {
+  background-image: url(../img/icons/github.svg);
+}
